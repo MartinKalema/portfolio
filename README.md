@@ -11,7 +11,6 @@ Bachelor Of Science in Software Engineering - Makerere University (2025)
 
 ## Projects
 ### Automated KYC Document Processing
-Developed a novel system that uses object detection and OCR technologies to expedite the Know Your Customer (KYC) procedure for account opening in the banking industry. This soultion has accelerated customer onboarding, reduced the risk of identity theft and fraudulent activities and lowered operational costs.
-
+Developed a novel system that uses object detection and OCR technologies to expedite the Know Your Customer (KYC) procedure for account opening in the banking industry. This solution has accelerated customer onboarding, reduced the risk of identity theft and fraudulent activities and lowered operational costs.
 Ops Pipeline: DVC, MLflow, SageMaker, Azure Machine Learning Studio, Jenkins, CircleCI, TFX, Travis CI, Azure DevOps
 
