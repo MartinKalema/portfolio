@@ -49,4 +49,8 @@ Bachelor Of Science in Software Engineering - Makerere University (2025)
 <p>Ops Pipeline: DVC, MLflow, SageMaker, Jenkins, CircleCI, RNN, NLP</p></div>
 <img src='assets/bot.png'>
 
+## Certifications
+- Certificate in Machine Learning & Artificial Intelligence - Refactory Academy
+- Mathematics for Machine Learning - DeepLearning.AI
+
 
