@@ -7,11 +7,11 @@ Tensorflow, Keras, LangChain, LlamaIndex, PineCone, Jenkins, Hadoop, PySpark, Ta
 Bachelor Of Science in Software Engineering - Makerere University (2025)
 
 ## Work Experience
-**Data Science Intern - iNeuron.ai (_March 2024 - Present_)**
+**Data Science Intern - iNeuron.ai** March 2024 - Present
 
 ## Projects
-### Automated KYC Document Processing
-<img src='assets/kyc.png'></img>
+**Automated KYC Document Processing & Account Creation**
+<img src='assets/kyc.png'>
 <div><p>Developed a novel system that uses object detection and OCR technologies to expedite the Know Your Customer (KYC) procedure for account opening in the banking industry. This solution has accelerated customer onboarding, reduced the risk of identity theft and fraudulent activities and lowered operational costs.</p>
-<p></p>Ops Pipeline: DVC, MLflow, SageMaker, Azure Machine Learning Studio, Jenkins, CircleCI, TFX, Travis CI, Azure DevOps</p></div>
+<p>Ops Pipeline: DVC, MLflow, SageMaker, Azure Machine Learning Studio, Jenkins, CircleCI, TFX, Travis CI, Azure DevOps</p></div>
 
