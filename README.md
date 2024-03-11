@@ -10,6 +10,12 @@ Bachelor Of Science in Software Engineering - Makerere University (2025)
 **Data Science Intern - iNeuron.ai** 
 
 ## Projects
+**1. Backorder Prediction**
+
+<div><p>Developed a predictive model for backorder prediction using machine learning technology in the domain of e-commerce. Leveraging historical data from inventories, supply chains, and sales, the model classifies products as either likely to go into backorder or not. By anticipating potential backorders, the model aids in streamlining planning processes across production, logistics, and transportation, thereby preventing unexpected strain on operations. </p>
+<p>Technologies: Jenkins, MLflow, Snowflake, PySpark, AWS Glue, Redshift</p></div>
+<img src='assets/backorder.png'>
+
 **1. Mall Customer Segmentation**
 
 <div><p>The Customer Segmentation & Understanding project was created to meet the pressing need for businesses to comprehend and adapt to their consumers' different preferences. It uses unsupervised machine learning techniques. In today's highly competitive industry, this insight is critical for efficiently adapting products and marketing strategies. Using powerful machine learning algorithms, the initiative divided clients into meaningful groups based on common qualities and behaviors allowing for a better understanding of their interests and actions. It also led to enhanced marketing ROI.</p>
