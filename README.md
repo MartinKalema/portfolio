@@ -16,3 +16,9 @@ Bachelor Of Science in Software Engineering - Makerere University (2025)
 <p>Ops Pipeline: DVC, MLflow, SageMaker, Azure Machine Learning Studio, Jenkins, CircleCI, TFX, Travis CI, Azure DevOps</p></div>
 <img src='assets/kyc.png'>
 
+**2. Insuarance Claim Management**
+
+<div><p>To streamline the process of insurance claim administration, we created an automated system that uses deep learning, NLP, and computer vision techniques. The technology successfully matches submitted documents to their original format, extracts handwritten and digital text, and populates pertinent fields in claim forms, minimizing manual work and increasing efficiency.</p>
+<p>Ops Pipeline: DVC, MLflow, SageMaker, Azure Machine Learning Studio, Jenkins, CircleCI, TFX, Travis CI, Azure DevOps</p></div>
+<img src='assets/claim.png'>
+
