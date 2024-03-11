@@ -5,4 +5,4 @@ description: Martin is a certified Data Scientist with over 12 months of experie
 theme: jekyll-theme-minimal
 
 exclude:
-- footer.html
+- _includes/footer.html
