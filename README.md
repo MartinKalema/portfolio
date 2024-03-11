@@ -28,7 +28,7 @@ Bachelor Of Science in Software Engineering - Makerere University (2025)
 <p>Ops Pipeline: DVC, MLflow, SageMaker, Azure Machine Learning Studio, Jenkins, CircleCI, TFX, Travis CI, Azure DevOps</p></div>
 <img src='assets/claim.png'>
 
-**3. Banking Bot**
+**4. Banking Bot**
 
 <div><p>I developed a bot leveraging Natural Language Processing (NLP) and deep learning techniques to address various banking-related issues and queries. This bot serves as a mobile application that provides comprehensive assistance to users regarding their banking needs. The key objectives of the bot include resolving queries related to account information, transaction details, security services, loan policies, and account status updates. Additionally, it monitors transaction activities in real-time to identify and alert users about suspicious or fraudulent activities, empowering them to take necessary precautions and report incidents promptly. By providing quick and accurate responses to users' banking queries, it reduced the need for human intervention, resulting in faster resolution of issues and improved customer satisfaction</p>
 <p>Ops Pipeline: DVC, MLflow, SageMaker, Jenkins, CircleCI, RNN, NLP</p></div>
