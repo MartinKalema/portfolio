@@ -7,7 +7,7 @@ Tensorflow, Keras, LangChain, LlamaIndex, PineCone, Jenkins, Hadoop, PySpark, Ta
 Bachelor Of Science in Software Engineering - Makerere University (2025)
 
 ## Work Experience
-**Data Science Intern - iNeuron.ai** March 2024 - Present
+**Data Science Intern - iNeuron.ai** 
 
 ## Projects
 **1. Automated KYC Document Processing & Account Creation**
