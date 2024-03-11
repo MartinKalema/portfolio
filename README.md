@@ -10,7 +10,7 @@ Bachelor Of Science in Software Engineering - Makerere University (2025)
 **Data Science Intern - iNeuron.ai** March 2024 - Present
 
 ## Projects
-**Automated KYC Document Processing & Account Creation**
+**1. Automated KYC Document Processing & Account Creation**
 
 <div><p>Developed a novel system that uses object detection and OCR technologies to expedite the Know Your Customer (KYC) procedure for account opening in the banking industry. This solution has accelerated customer onboarding, reduced the risk of identity theft and fraudulent activities and lowered operational costs.</p>
 <p>Ops Pipeline: DVC, MLflow, SageMaker, Azure Machine Learning Studio, Jenkins, CircleCI, TFX, Travis CI, Azure DevOps</p></div>
