@@ -7,7 +7,7 @@ Tensorflow, Keras, LangChain, LlamaIndex, PineCone, Jenkins, Hadoop, PySpark, Ta
 Bachelor Of Science in Software Engineering - Makerere University (2025)
 
 ## Work Experience
-**Bioinformatics Reasearch Scientists - Makerere University** 
+**Bioinformatics Reasearch Scientist - Makerere University** 
 - Harnessing Genome Wide Association studies to identify biomarkers linked to the early onset of Alzheimer's disease and construct predictive models for the detection of these biomarkers within gene sequences.
 
 **Data Science Intern - iNeuron.ai** 
