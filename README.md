@@ -7,6 +7,9 @@ Tensorflow, Keras, LangChain, LlamaIndex, PineCone, Jenkins, Hadoop, PySpark, Ta
 Bachelor Of Science in Software Engineering - Makerere University (2025)
 
 ## Work Experience
+**Bioinformatics Reasearch Scientists - Makerere University** 
+- Harnessing Genome Wide Association studies to identify biomarkers linked to the early onset of Alzheimer's disease and construct predictive models for the detection of these biomarkers within gene sequences.
+
 **Data Science Intern - iNeuron.ai** 
 - Led the design and implementation of a scalable Sentiment Analysis Pipeline using Spark, HDFS, and AWS S3 to analyze customer reviews in real-time.
 - Developed and maintained the pipeline, ensuring seamless integration with AWS S3 for data retrieval and storage in HDFS.
