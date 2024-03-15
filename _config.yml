@@ -3,6 +3,3 @@ title: Martin Kalema
 logo: /assets/passport-fotor-3.jpg
 description: Martin is a certified Data Scientist with over 12 months of experience leveraging Statistical Modelling, Data Mining, Machine Learning & Deep Learning to solve business problems in the context of Time Series, Computer Vision and Natural Language Processing.
 theme: jekyll-theme-minimal
-
-exclude:
-- _includes/footer.html
