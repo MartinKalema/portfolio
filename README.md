@@ -1,14 +1,14 @@
 # Data Scientist
 
 ## Skills
-Tensorflow, Keras, LangChain, LlamaIndex, PineCone, Jenkins, Hadoop, PySpark, Tableau, Snowflake, AWS SageMaker, Azure Data Lake, Azure Data Factory, Weviate, Docker, Kubernetes, Prompt Engineering, Azure Databricks, Flask, Django, DVC, MLFlow, Airflow, CircleCI, Regression, Classification, NLP, Clustering, Time Series, ANN, CNN, FastAPI
+Tensorflow, Keras, LangChain, LlamaIndex, PineCone, Jenkins, Hadoop, PySpark, Tableau, Snowflake, AWS SageMaker, Azure Data Lake, Azure Data Factory, Weviate, Docker, Kubernetes, Prompt Engineering, Azure Databricks, Flask, Django, DVC, MLFlow, Airflow, CircleCI, Regression, Classification, NLP, Clustering, Time Series, ANN, CNN, FastAPI, LIME
 
 ## Education
 Bachelor Of Science in Software Engineering - Makerere University (2025)
 
 ## Work Experience
 **Bioinformatics Research Scientist - Makerere University** 
-- Harnessing Genome Wide Association studies to identify biomarkers linked to the early onset of Alzheimer's disease and construct predictive models for the detection of these biomarkers within gene sequences.
+- Harnessing Genome Wide Association studies to identify biomarkers linked to the early onset of Alzheimer's disease and construct explainable predictive models for the detection of these biomarkers within gene sequences.
 
 **Data Science Intern - CodSoft** 
 - Led the design and implementation of a scalable Sentiment Analysis Pipeline using Spark, HDFS, and AWS S3 to analyze customer reviews in real-time.
